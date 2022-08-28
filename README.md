@@ -1,2 +1,2 @@
-# Titanic_Kaggle
+# TitanicKaggle
 Utilizes SGD, Random Forest, and XGBoost classifiers to predict whether passengers are surivivors or deceased in Kaggle's competition dataset
